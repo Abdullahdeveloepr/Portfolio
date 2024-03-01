@@ -1,0 +1,15 @@
+#about {
+    height: 100vh;
+    background: transparent;
+}
+
+.about_banner_wrapper img {
+    width: 84%;
+    float: right;
+    margin: 29px auto;
+}
+
+.about_main{
+    margin-top: 7%;
+    
+}
